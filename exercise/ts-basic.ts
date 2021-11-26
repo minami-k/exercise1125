@@ -79,7 +79,7 @@ export default () => {
     const stringsAndNumbers: [number, string, number, string, number, string] = [1, 'one', 2, 'two', 3, 'three'];
     const allMyArrays: object = [sequence, animals, stringsAndNumbers];
   
-    console.log('Exercise 1.5', allMyArrays);
+    console.log('[Exercise 1.5]', allMyArrays);
   
     // ======== Exercise 1.6 ========
     // Goal:
